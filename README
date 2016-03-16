@@ -2,9 +2,9 @@ Enhanced ACSM
 
 memory pool based edition of an acsm
 after adding this lib to your programme, you can
-    -- run callback functions that match patterns you defined before
-    -- add patterns and compile ac state machine in a specified memory pool
-    -- manipulate and run the same ac state machine in different processes 
+    -- run callback functions that match patterns you once defined
+    -- add patterns and compile ac state machine and all those are manipulated in a specified memory pool
+    -- manipulate and run the same ac state machine across different processes 
 
 To run test, install libmm as your temporary multi-process mem pool
 
